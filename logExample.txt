@@ -1,0 +1,42 @@
+Log - 11-6-2018 4.38.27 PM - 1.htm
+
+id: 52054bc2-28cd-4da0-9a31-4d78fffb63be
+match type: Constructed
+Final Hand
+<Card: 'Pegasus Courser' ['White'] DOM 67162>
+Owner: 1
+Winner: 2
+Mulliganed Hands: 
+Hand 1:
+<Card: 'Oreskos Swiftclaw' ['White'] M19 67742>
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Luminous Bonds' ['White'] RIX 66641>
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Leonin Warleader' ['White'] M19 67726>
+Hand 2:
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Daybreak Chaplain' ['White'] M19 67700>
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Take Vengeance' ['White'] M19 67760>
+<Card: 'Silverbeak Griffin' ['White'] M19 68252>
+Hand 3:
+<Card: 'Oreskos Swiftclaw' ['White'] M19 67742>
+<Card: 'Luminous Bonds' ['White'] RIX 66641>
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Loxodon Line Breaker' ['White'] M19 67728>
+<Card: 'Daybreak Chaplain' ['White'] M19 67700>
+Hand 4:
+<Card: 'Pegasus Courser' ['White'] DOM 67162>
+<Card: 'Star-Crowned Stag' ['White'] M19 67756>
+<Card: 'Daybreak Chaplain' ['White'] M19 67700>
+<Card: 'Plains' ['White'] M19 68204>
+Hand 5:
+<Card: 'Silverbeak Griffin' ['White'] M19 68252>
+<Card: 'Take Vengeance' ['White'] M19 67760>
+<Card: 'Plains' ['White'] M19 68204>
+Hand 6:
+<Card: 'Plains' ['White'] M19 68204>
+<Card: 'Tactical Advantage' ['White'] ANA 68769>
